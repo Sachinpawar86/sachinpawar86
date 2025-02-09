@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Android Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinpawar86w&label=Profile%20views&color=0e75b6&style=flat" alt="sachinpawar86" /> </p>
-<img align="right" alt="Coding" width="500" src="https://b.top4top.io/p_2835y06rp0.gif">
+<img align="right" alt="Coding" width="400" src="https://b.top4top.io/p_2835y06rp0.gif">
 
 - 🌱 I’m currently learning **everything 🤣**
 
