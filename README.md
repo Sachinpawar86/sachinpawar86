@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 💬 Ask me about **Android.MORE**
+- 💬 Ask me about **Android More 🤖**
 
 - ⚡ Fun fact **I am Funny 😅**
 
